@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C++ and Python
 - 💞️ I’m looking to collaborate on project 
 - 📫 How to reach me 
-- ⚡ Fun fact: I recently graduated with Bachelors Mechanical Engineering, Summa Cum Laude. (Age 34 married with 2 kids)
+- ⚡ Fun fact: I am a Mechanical Engineer who designs solenoid valves
 
 <!---
 pnolan525/pnolan525 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
